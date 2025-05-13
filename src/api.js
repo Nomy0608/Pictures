@@ -13,4 +13,4 @@ const SearchImages = async(term) => {
     return response.data.results
 }
 
-export default searchImages
+export default SearchImages
